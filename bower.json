@@ -1,0 +1,26 @@
+{
+  "name": "pct-submodules-boilerplate",
+  "description": "boilerplate proyect for fast submodule refactoring inside PCT",
+  "authors": [
+    "franleplant <franleplant@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "module",
+    "ng"
+  ],
+  "main": "dist/dist.js",
+  "ignore": [
+    "*",
+    "!dist",
+    "!dist/dist.min.js"
+  ],
+  "dependencies": {
+    "angular": "~1.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2",
+    "jquery": "~1.9"
+  }
+}
